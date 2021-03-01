@@ -1,11 +1,13 @@
 # GANMcC
 Code of paper GANMcC: A Generative Adversarial Network with Multi-classification Constraints for Infrared and Visible Image Fusion. In this paper, we propose a new fusion network, called generative adversarial network with multi-classification constraints (GANMcC), which transforms image fusion into a multi-distribution estimation problem. Experiments show that GANMcC can overcome the problem of unbalanced information fusion in previous methods, and the fused result not only has significant contrast but also contains rich texture details.
 ````
-@article{ma2020ganmcc,
+@article{ma2021ganmcc,
   title={GANMcC: A Generative Adversarial Network with Multi-classification Constraints for Infrared and Visible Image Fusion},
   author={Ma, Jiayi and Zhang, Hao and Shao, Zhenfeng and Liang, Pengwei and Xu, Han},
   journal={IEEE Transactions on Instrumentation and Measurement},
-  year={2020},
+  volume={70},
+  pages={5005014},
+  year={2021},
   publisher={IEEE}
 }
 ````
