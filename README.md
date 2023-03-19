@@ -12,7 +12,13 @@ Code of paper GANMcC: A Generative Adversarial Network with Multi-classification
 }
 ````
 
-
+#### Recommended Environment:<br>
+ - [ ] python = 2.7
+ - [ ] tensorflow-gpu = 1.9.0
+ - [ ] numpy = 1.15.4
+ - [ ] h5py = 2.9.0
+ - [ ] scipy = 1.2.0
+ - [ ] opencv = 2.4.11
 
 
 #### To train :<br>
